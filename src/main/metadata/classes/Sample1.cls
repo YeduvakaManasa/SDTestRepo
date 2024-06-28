@@ -10,6 +10,7 @@ public with sharing class Sample {
         this.name = name;
     }
 
+ 
 
 
     
